@@ -1,0 +1,6 @@
+{
+    "projectId": "giic6t",
+    "env" : {
+        "app_url" : "http://localhost:4200/"
+    }
+}
